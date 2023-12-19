@@ -35,7 +35,14 @@
         <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" padding="5" alt="React" />
         <br>C++</br>
 </td>
-
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" padding="5" alt="React" />
+        <br>Html</br>
+</td>
+        <td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=css" width="60" height="60" padding="5" alt="React" />
+        <br>CSS</br>
+</td>
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="React" />
         <br>JavaScript</br>
