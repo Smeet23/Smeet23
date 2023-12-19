@@ -23,6 +23,61 @@
 
 - ⚡ **Marvel Fan**
 
+## 💻 Tech Stack:
+<table>
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=c" width="60" height="60" padding="5" alt="JavaScript" />
+        <br>C</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" padding="5" alt="React" />
+        <br>C++</br>
+</td>
+
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="React" />
+        <br>JavaScript</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" padding="5" alt="React"  />
+        <br>Node.js</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" padding="5" alt="Express" />
+        <br>Express</br>
+</td>
+
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="NestJS" />
+        <br>Postman</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="React" />
+        <br>ReactJs</br>
+</td>
+
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="Node.js" />
+        <br>MongoDB</br>
+</td>
+
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" padding="5" alt="Express" />
+        <br>PostgreSQL</br>
+</td>
+</tr>
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=jest" width="60" height="60" padding="5" alt="Express" />
+        <br>Jest</br>
+</td>
+
+</td>
+</tr>
+
+</table>
+
 <p align="left">
 <!-- <a href="https://www.codechef.com/users/priyesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyesh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/-priyesh-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="-priyesh-" height="30" width="40" /></a>
