@@ -48,6 +48,10 @@
         <img src="https://skillicons.dev/icons?i=express" width="60" height="60" padding="5" alt="Express" />
         <br>Express</br>
 </td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" padding="5" alt="Bootstrap" />
+        <br>Bootstrap</br>
+</td>
 
 <td align="center" width="96" style="border:2px solid blue">
         <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="NestJS" />
