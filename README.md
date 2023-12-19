@@ -7,7 +7,7 @@
 
 [//]: <> (  GitHub Readme Stats comes with several built-in themes e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smeet23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h1 align="center">Hi 👋, I'm Smeet Agrawal</h1>
