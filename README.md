@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **smeetagrawal2003@gmail.com**
 
-- ⚡ **Marvel Fan**
-- ✨ Explorer
 
 ## 💻 Tools ans Technologies:
 <table>
