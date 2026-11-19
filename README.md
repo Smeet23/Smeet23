@@ -1,98 +1,56 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+<h1 align="center">Smeet Agrawal</h1>
+<p align="center">Software Engineer · backend systems and the AI that runs on them</p>
 
-![Smeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smeet23&hide=issues,stars&show_icons=true&rank_icon=github&theme=codeSTACKr)
+<p align="center">
+  <a href="https://smeet-agrawal.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sagrawal237/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:smeetagrawal23@gmail.com">Email</a>
+</p>
 
+---
 
-[//]: <> (  &hide=stars,commits,prs,issues,contribs  )
+I'm a software engineer at **Big Circle**, working across production client products. I build the parts that have to be right: payment rails, multi-tenant platforms, concurrency-safe data models, and retrieval systems whose answers you can actually trust. Backend depth first, applied AI on top.
 
-[//]: <> (  GitHub Readme Stats comes with several built-in themes e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula )
+The method is always the same — **find how it breaks first, make the failure visible, then build.**
 
+- 🧱 **Backend & platform** — IBAN payouts over OAuth2 + mTLS with idempotent webhooks, per-contract Postgres advisory-lock protocols, a data-model migration across 238 files and 14 coordinated migrations, six BullMQ/Redis queues with SSE progress.
+- 🔎 **Production RAG** — hybrid retrieval (BM25 + pgvector, RRF), cross-encoder reranking, Docling ingestion that keeps tables searchable, LangGraph research agents, and evaluation gated in CI with RAGAS and DeepEval.
+- 🌱 **Building** — *citecheck*, a reference checker that flags fabricated, retracted and misquoted citations in academic writing.
 
+### Tech
 
+![Python](https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-1a1a1a?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-1a1a1a?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-1a1a1a?style=flat-square&logo=microsoftazure&logoColor=white)
 
-<h1 align="center">Hi 👋, I'm Smeet Agrawal</h1>
-<h3 align="center">A curious computer science student from India👨‍💻</h3>
+**AI & retrieval** — LangGraph · LangChain · pgvector · Qdrant · RAGAS · DeepEval · Langfuse · Docling · Claude API · MCP
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Smeet23&label=Profile%20views&color=0e75b6&style=flat" alt="Smeet23" /> </p>
+### Selected work
 
+| Project | What it is |
+|---|---|
+| **[LexIntel](https://github.com/Smeet23/Lexintel)** | Legal research with an answer-trust layer — every citation resolves to its source chunk or is removed, with a four-factor confidence score. |
+| **[research-rag](https://github.com/Smeet23/research-rag)** | A faithful research assistant over IMF and economics documents, where every number is traceable to the exact cell on the exact page. |
+| **[Grokstack](https://github.com/Smeet23/backend-dojo)** | A scenario-based backend course with an AI tutor, graded explanations and mock interviews. [Live →](https://grokstack.vercel.app) |
 
+### Open source
 
-- 🌱 I’m currently learning **Full Stack  Web Developement**
+Merged upstream in projects people depend on:
 
-- 📫 How to reach me **smeetagrawal2003@gmail.com**
+- **IBM Docling / docling-core** — Excel-to-Markdown serializer, PDF ligature-map and nested-LaTeX fixes &nbsp;`#3635` `#587` `#3249` `#3254`
+- **nginx** — log TLS 1.3 record-layer failures at info level, not critical &nbsp;`#1267`
+- **Maxun** — missing i18n translation keys across all locales &nbsp;`#1025`
 
+### Stats
 
-## 💻 Tools ans Technologies:
-<table>
-<tr>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=c" width="60" height="60" padding="5" alt="JavaScript" />
-        <br>C</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" padding="5" alt="React" />
-        <br>C++</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=html" width="60" height="60" padding="5" alt="React" />
-        <br>Html</br>
-</td>
-        <td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=css" width="60" height="60" padding="5" alt="React" />
-        <br>CSS</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="React" />
-        <br>JavaScript</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" padding="5" alt="React"  />
-        <br>Node.js</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" padding="5" alt="Express" />
-        <br>Express</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" padding="5" alt="Bootstrap" />
-        <br>Bootstrap</br>
-</td>
-
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="NestJS" />
-        <br>Postman</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="React" />
-        <br>ReactJs</br>
-</td>
-
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="Node.js" />
-        <br>MongoDB</br>
-</td>
-
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" padding="5" alt="Express" />
-        <br>PostgreSQL</br>
-</td>
-</tr>
-<tr>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=jest" width="60" height="60" padding="5" alt="Express" />
-        <br>Jest</br>
-</td>
-
-</td>
-</tr>
-
-</table>
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Smeet23&" alt="Smeet23" /></p>
-
-[//]: <> (just for checking)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Smeet23&show_icons=true&hide=issues,contribs&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=5b8cff&icon_color=5b8cff&text_color=c9d1d9" alt="Smeet's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smeet23&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=5b8cff&text_color=c9d1d9" alt="Top languages" />
+</p>
