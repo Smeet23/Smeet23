@@ -66,9 +66,8 @@ Merged upstream in projects people depend on:
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Smeet23&show_icons=true&hide=issues,contribs&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=5B8CFF&icon_color=5B8CFF&text_color=C9D1D9" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.vercel.app/?user=Smeet23&hide_border=true&background=0D1117&stroke=1F2937&ring=5B8CFF&fire=5B8CFF&currStreakLabel=5B8CFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Smeet23&hide_border=true&background=0D1117&stroke=1F2937&ring=5B8CFF&fire=5B8CFF&currStreakLabel=5B8CFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Smeet23&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title=Commits,PullRequest,Repositories,Followers,Experience,Stars,MultipleLang" alt="trophies" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smeet23&hide_border=true&bg_color=0D1117&color=C9D1D9&line=5B8CFF&point=5B8CFF&area=true&area_color=5B8CFF" alt="activity graph" />
 
